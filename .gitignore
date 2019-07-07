@@ -1,0 +1,14 @@
+.vs
+Debug
+Release
+Assembly-CSharp.csproj
+Assets
+Builds/Windows/Installer/*.iss
+Builds/Windows/x86
+CubeRunner.csproj
+CubeRunner.sln
+Library
+obj
+Packages
+ProjectSettings
+Temp
