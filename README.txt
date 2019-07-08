@@ -4,8 +4,10 @@
      Author: Igor Bistrovic
     Company: -
     Project: -
-    Version: 1.0.0
-UpdateNotes: -
+    Version: 1.0.2
+UpdateNotes: - presloziti foldere da bolje izgleda kad se instalira
+             - pretvoriti readme u change log file i ne uploadat ga u app
+             - napraviti readme sa uputama (i da se pokrece nakon instalacije)
  Change log: 
    19/07/07:   - created "README.txt"
                - created git repository
