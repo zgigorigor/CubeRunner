@@ -28,4 +28,5 @@ UpdateNotes: -
                - created Builds\Windows\Installer\*.exe
                - created Builds\Windows\Installer\*.iss
    19/07/07:   - updated app setup
+               - added "README.txt" to ".gitgnore"
 ####
